@@ -1,0 +1,6 @@
+C:\Users\nikos\source\repos\HomeWork9set3\HomeWork9set3\bin\Debug\HomeWork9set3.exe.config
+C:\Users\nikos\source\repos\HomeWork9set3\HomeWork9set3\bin\Debug\HomeWork9set3.exe
+C:\Users\nikos\source\repos\HomeWork9set3\HomeWork9set3\bin\Debug\HomeWork9set3.pdb
+C:\Users\nikos\source\repos\HomeWork9set3\HomeWork9set3\obj\Debug\HomeWork9set3.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\HomeWork9set3\HomeWork9set3\obj\Debug\HomeWork9set3.exe
+C:\Users\nikos\source\repos\HomeWork9set3\HomeWork9set3\obj\Debug\HomeWork9set3.pdb
